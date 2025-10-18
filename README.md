@@ -47,29 +47,29 @@
     <td align="left" width="50%">
       <p align="left">
           <h3>Website Development</h3>
-          <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap&perline=6" /> 
+          <img src="https://skillicons.dev/icons?i=laravel,html,css,js,php,angular&perline=6" /> 
       </p>
       <p align="left">
-          <h3>Framework</h3>
-          <img src="https://skillicons.dev/icons?i=react,laravel,flutter&perline=6" /> 
+          <h3>Mobile Development</h3>
+          <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,firebase&perline=6" /> 
       </p>
       <p align="left">
           <h3>Tools</h3>
-          <img src="https://skillicons.dev/icons?i=vscode,git,postman,docker,notion&perline=6" /> 
+          <img src="https://skillicons.dev/icons?i=vscode,git,npm,docker,notion,mysql&perline=6" /> 
       </p>
     </td>
     <td align="left" width="50%">
       <p align="left">
-          <h3>Backend</h3>
-          <img src="https://skillicons.dev/icons?i=php,express,java,spring&perline=6" /> 
+          <h3>Game Development</h3>
+          <img src="https://skillicons.dev/icons?i=unity,visualstudio,cs,blender,ps,ai&perline=6" /> 
       </p>
       <p align="left">
-          <h3>Database</h3>
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" /> 
+          <h3>Discord Bot</h3>
+          <img src="https://skillicons.dev/icons?i=discord,heroku,bots,discordjs,nodejs,js&perline=6" /> 
       </p>
       <p align="left">
-          <h3>Others</h3>
-          <img src="https://skillicons.dev/icons?i=figma,ps&perline=6" /> 
+          <h3>Electrical Electronic</h3>
+          <img src="https://skillicons.dev/icons?i=arduino,sketchup,c,cpp&perline=6" /> 
       </p>
     </td>
   </tr>
