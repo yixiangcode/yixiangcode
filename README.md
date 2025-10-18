@@ -51,7 +51,7 @@
       </p>
       <p align="left">
           <h3>Mobile Development</h3>
-          <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,firebase&perline=6" /> 
+          <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,firebase,gcp,windows&perline=6" /> 
       </p>
       <p align="left">
           <h3>Tools</h3>
@@ -69,7 +69,7 @@
       </p>
       <p align="left">
           <h3>Electrical Electronic</h3>
-          <img src="https://skillicons.dev/icons?i=arduino,sketchup,c,cpp&perline=6" /> 
+          <img src="https://skillicons.dev/icons?i=arduino,sketchup,c,cpp,anaconda,py&perline=6" /> 
       </p>
     </td>
   </tr>
